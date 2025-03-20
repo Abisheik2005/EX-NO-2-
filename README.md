@@ -158,7 +158,8 @@ int main()
 
 ## Output:
 
-![Screenshot 2025-03-20 092945](https://github.com/user-attachments/assets/2a81aa0c-06de-43ff-a850-39861e2c0f7c)
+![Screenshot 2025-03-20 094430](https://github.com/user-attachments/assets/528925c0-9561-444c-8f28-c11ba8863652)
+
 
 
 ## result:
